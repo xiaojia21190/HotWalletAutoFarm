@@ -7,7 +7,7 @@ Hello, Fellow Crypto Game Enthusiasts! If you find the scripts useful and would 
   
 - **Setting Up a Relay to a Telegram Bot**: A step-by-step guide to get real-time updates to Te legram. [read more](https://www.patreon.com/posts/heres-polished-107773474?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator&u tm_content=join_link)
 - **Gamee added & Oxygen improved**: Now claim the Oxygen daily reward, and check   out  new game  Gamee. [r ead more](https://www.p atreon.com/posts/weekend-updates-107599840?utm_medium=clipboard_copy&utm_source=copyLink&utm_cam paign=postshare_creator&utm_content=join_l i nk) 
-- **Community Member Contributes 2 More Games!**: SimpleTap & PixelTap j o  in the club. [read mor e](https://www.patreon.com/posts/simpletap-107475385?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator &utm_content=jo in_link) 
+- **Community Member Contributes 2 More Games!**: SimpleTap & PixelTap j o  in the club. [read mor e](https://www.patreon.com/posts/simpletap-107475385?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=postshare_creator &utm_content=jo in_link)  
      
 ## Clever Claiming - How to Use a Virtual Browser and Python Script to Max imize Rewards 24/7
    
